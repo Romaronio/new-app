@@ -1,0 +1,14 @@
+.match {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+}
+.photo img {
+	width: 150px;
+	border-radius: 10px;
+}
+.photo2 {
+	justify-self: end;
+}
+.Name {
+	margin-left: 30px;
+}

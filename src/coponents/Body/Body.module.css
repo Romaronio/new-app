@@ -1,0 +1,17 @@
+.window {
+	background: #99ccec;
+	border-radius: 20px;
+	height: 300px;
+}
+.igra {
+	margin-top: 1%;
+	margin-right: 1%;
+	margin-left: 1%;
+	display: grid;
+	grid-template-columns: repeat(3, 1fr);
+	grid-gap: 1em;
+}
+.Oco {
+	background: #072f53;
+	border-radius: 5px;
+}

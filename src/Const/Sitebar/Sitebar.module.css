@@ -1,0 +1,40 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	line-height: 1;
+}
+.menu {
+	border-radius: 10px 10px 160px 160px;
+	display: grid;
+	grid-template-columns: 1fr;
+	grid-auto-rows: 100px;
+	background: #03125d;
+}
+.macthes {
+	width: 94%;
+	border-radius: 20px;
+	padding: 10px;
+	margin-left: 5px;
+	margin-right: 5px;
+	margin-top: 15px;
+	background-color: #065a9f;
+	font-size: 20px;
+	box-shadow: 3px 5px black;
+	align-self: center;
+}
+.macthes:hover {
+	background: #cc9933;
+	margin-left: 15px;
+}
+.macthes:active {
+	background: #fecd45;
+}
+.link {
+	text-decoration: none;
+	color: antiquewhite;
+}
+.img {
+	width: 100%;
+	border-radius: 30px;
+}

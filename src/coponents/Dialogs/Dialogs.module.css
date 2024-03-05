@@ -1,0 +1,28 @@
+.Person {
+	display: grid;
+	grid-template-columns: 1fr;
+	padding: 1%;
+}
+.Chat {
+	margin: 1%;
+	align-self: stretch;
+	border-radius: 20px;
+	width: 20%;
+	background: #0c6687;
+	padding: 24px;
+	box-shadow: 5px 7px black;
+}
+.Link {
+	text-decoration: none;
+	color: aliceblue;
+	font-size: 20px;
+}
+.Dialogs {
+	margin-top: 39%;
+	border-radius: 10px;
+}
+.button {
+	width: 100px;
+	height: 20px;
+	border-radius: 20px;
+}

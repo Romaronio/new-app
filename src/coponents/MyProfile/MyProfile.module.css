@@ -1,0 +1,24 @@
+.body {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+}
+.FIO {
+	color: aliceblue;
+	font-size: 30px;
+	margin-left: 7%;
+}
+.competition {
+	color: aliceblue;
+	margin-top: 20px;
+	font-size: 30px;
+}
+.NameCompetition {
+	color: rgb(130, 223, 229);
+	margin-top: -250px;
+	border: medium dashed black;
+}
+.One {
+	padding-top: 25px;
+	padding-left: 25px;
+	font-size: 20px;
+}
