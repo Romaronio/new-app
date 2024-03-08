@@ -17,7 +17,7 @@ let Dialogs = props => {
 				cols='100'
 				rows='3'
 			></textarea>
-			<button className={s.button}>Отправить</button>
+			<button className={s.button}>Отправит домой спать</button>
 		</div>
 	)
 }
