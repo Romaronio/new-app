@@ -1,5 +1,6 @@
 import s from './MyProfile.module.css'
 import Pictures from './Pictures/Pictures'
+
 let MyProfile = props => {
 	return (
 		<div className={s.body}>
