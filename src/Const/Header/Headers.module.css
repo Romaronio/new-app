@@ -19,11 +19,15 @@
 }
 .Text {
 	font-size: 30px;
-	grid-column: 2fr;
-	align-self: center;
-	color: rgb(214, 236, 236);
+	width: 40%;
+	padding: 40px;
+	background: linear-gradient(to right, hsl(34, 100%, 50%), #060021);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
 }
 .squash_ne_loge {
-	font-size: 26px;
+	font-size: 40px;
+	align-self: center;
 	margin-bottom: 20px;
+	text-transform: uppercase;
 }

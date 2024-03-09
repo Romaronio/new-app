@@ -20,15 +20,14 @@
 	margin-top: 15px;
 	background-color: #065a9f;
 	font-size: 20px;
-	box-shadow: 3px 5px black;
+	box-shadow: 3px 4px rgba(0, 0, 0, 0.18);
 	align-self: center;
+	transition: 0.4s ease-in-out;
 }
 .macthes:hover {
-	background: #cc9933;
-	margin-left: 15px;
-}
-.macthes:active {
-	background: #fecd45;
+	background: #360487;
+	color: #b3aeae;
+	transform: translateY(5px) translateX(5px) rotateX(10deg) rotateY(10deg);
 }
 .link {
 	text-decoration: none;
